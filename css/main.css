@@ -20,6 +20,15 @@ a:hover {
   color: #3f1622;
 }
 
+nav ol li {
+  list-style-type: none;
+}
+
 .heading {
   font-size: 1.125rem;
+}
+
+main {
+  font-family: "PT Serif", serif;
+  font-size: 0.85rem;
 }
