@@ -1,8 +1,7 @@
-body {
+html {
   background-color: #c9b5ab;
   font-size: 1.5rem;
   line-height: 1.5;
-  width: 608px;
 }
 
 img {
@@ -14,5 +13,5 @@ a {
 }
 
 a:hover {
-  
+
 }
