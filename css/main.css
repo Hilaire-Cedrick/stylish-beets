@@ -12,6 +12,7 @@ img {
 h1, h2 {
   color: #3f1622;
   font-family: "PT Sans", sans-serif;
+  font-size: 1.5rem;
 }
 
 figcaption {
@@ -45,5 +46,5 @@ nav ol li {
 }
 
 .highlight {
-  font-size: 1.5rem;
+  font-size: .8rem;
 }
