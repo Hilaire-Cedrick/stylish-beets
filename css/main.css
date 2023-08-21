@@ -44,6 +44,15 @@ a:hover {
   color: #3f1622;
   text-decoration: underline;
 }
+blockquote  {
+  font-size: .8rem;
+  font-style: italic;
+}
+
+blockquote p {
+  font-size: 1.25rem;
+  text-align: center;
+}
 
 .highlight {
   font-size: .8rem;
