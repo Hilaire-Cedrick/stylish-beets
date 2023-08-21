@@ -52,7 +52,10 @@ blockquote {
 
 blockquote p {
   font-size: 1.25rem;
-  text-align: center;
+}
+
+blockquote p cite {
+  font-size: .8rem;
 }
 
 .highlight {
